@@ -1,0 +1,899 @@
+{
+  "assessedAt": "2025-04-22T11:00:00Z",
+  "assessedBy": {
+    "id": "mailto:mlieberman85@gmail.com",
+    "comment": "Automated scan + manual review based on internal checklist #789"
+  },
+  "assessmentComment": "Full Self-Assessment for OpenSSF Security Baseline for WTF Frontend",
+  "controls": [
+    {
+      "id": "OSPS-AC-01.01",
+      "conclusion": "non-compliant",
+      "evidence": [
+        {
+          "humanEvidence": {
+            "name": "manual-inspection",
+            "humanDescription": "Examined AuthN MFA requirements for the GitHub Organization and found lack of enforcement. Changing the setting could be disruptive to the organization and will require further planning to mitigate."
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-AC-02.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-AC-03.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-AC-03.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-01.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-01.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-03.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-03.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-DO-01.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-DO-02.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-GV-02.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-GV-03.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-LE-02.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-LE-02.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-LE-03.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-LE-03.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-01.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-01.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-02.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "humanEvidence": {
+            "name": "manual-inspection",
+            "humanDescription": "Package manifest file (e.g., package.json) present in repo root."
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-04.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-05.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-05.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-02.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "attestationRefEvidence": {
+            "name": "automated-scan",
+            "ref": {
+              "uri": "https://github.com/whiskeytastingfoundation/wtf-frontend/blob/main/SECURITY.md",
+              "mediaType": "text/markdown",
+              "description": "Security policy document available in the repository."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-AC-04.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-02.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-04.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-05.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-06.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-DO-06.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-GV-01.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-GV-01.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-GV-03.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-LE-01.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "humanEvidence": {
+            "name": "manual-inspection",
+            "humanDescription": "DCO check enforced via CI."
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-03.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-06.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-SA-01.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-SA-02.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-SA-03.01",
+      "conclusion": "non-compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-01.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-03.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-04.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-AC-04.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-BR-02.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-DO-03.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-DO-03.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-DO-04.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-DO-05.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-GV-04.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-02.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-04.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-06.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-06.03",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-QA-07.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-SA-03.02",
+      "conclusion": "non-compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-04.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "humanEvidence": {
+            "name": "manual-inspection",
+            "humanDescription": "VEX document generated for non-applicable CVEs in dependencies."
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-05.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-05.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-05.03",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-06.01",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSPS-VM-06.02",
+      "conclusion": "compliant",
+      "evidence": [
+        {
+          "ellaEvidence": {
+            "name": "automated-scan",
+            "ella": {
+              "uri": "",
+              "uriData": {}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
